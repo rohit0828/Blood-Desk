@@ -8,3 +8,5 @@ Easily can connect with a community and Maintain all the databases and can be us
 Here’s how the **Blood Desk GUI** looks:
 
 ![Blood Desk Screenshot](https://raw.githubusercontent.com/rohit0828/Blood-Desk/main/Blood_Desk_01.jpg)
+
+![](https://raw.githubusercontent.com/rohit0828/Blood-Desk/main/Blood_Desk_02.jpg)
